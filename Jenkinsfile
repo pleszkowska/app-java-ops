@@ -2,7 +2,7 @@ pipeline {
     agent any
     tools {
         // Use the JDK version named "Java 21" configured in Jenkins
-        jdk 'Java 21'
+        jdk 'Java'
     }
 
     environment {
